@@ -46,7 +46,7 @@
 # print(result_catalog)
 # ---------------------------------------
 def get_sum(a, b) -> int:
-    return a + b
+    return a ** 2 + b ** 2
 
 
 print(get_sum(5, 7)) # test
