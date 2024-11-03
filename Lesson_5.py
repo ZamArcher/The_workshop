@@ -49,4 +49,4 @@ def get_sum(a, b) -> int:
     return a ** 2 + b ** 2
 
 
-print(get_sum(5, 7)) # test
+print(f'Что же это было? {get_sum(5, 7)}') # test
